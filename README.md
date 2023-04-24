@@ -10,13 +10,6 @@
  
  https://www.kaggle.com/competitions/forest-cover-type-prediction/data
 
-## ¿Cómo obtener los datos y hacerlos disponibles en los cuadernos?
-
-
-
-
-
-
 ## Enlace Video Entrega 2
 
 https://youtube.com/shorts/ypUdaITk8pA?feature=share
